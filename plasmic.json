@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "public-files",
@@ -872,6 +872,19 @@
             "modulePath": "../pages/blog-1.tsx"
           },
           "cssFilePath": "plasmic/sparq_master_app_active_production/PlasmicDisposableCollection3.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "IxtK-1P4MO",
+          "name": "Blank",
+          "type": "managed",
+          "projectId": "iSzU1ZKEjf8SRxfxLxQeEs",
+          "renderModuleFilePath": "plasmic/sparq_master_app_active_production/PlasmicBlank.tsx",
+          "importSpec": {
+            "modulePath": "../pages/blank.tsx"
+          },
+          "cssFilePath": "plasmic/sparq_master_app_active_production/PlasmicBlank.module.css",
           "scheme": "blackbox",
           "componentType": "page"
         }
