@@ -874,19 +874,6 @@
           "cssFilePath": "plasmic/sparq_master_app_active_production/PlasmicDisposableCollection3.module.css",
           "scheme": "blackbox",
           "componentType": "page"
-        },
-        {
-          "id": "IxtK-1P4MO",
-          "name": "Blank",
-          "type": "managed",
-          "projectId": "iSzU1ZKEjf8SRxfxLxQeEs",
-          "renderModuleFilePath": "plasmic/sparq_master_app_active_production/PlasmicBlank.tsx",
-          "importSpec": {
-            "modulePath": "../pages/blank.tsx"
-          },
-          "cssFilePath": "plasmic/sparq_master_app_active_production/PlasmicBlank.module.css",
-          "scheme": "blackbox",
-          "componentType": "page"
         }
       ],
       "icons": [
@@ -1603,6 +1590,6 @@
   "nextjsConfig": {
     "pagesDir": "../pages"
   },
-  "cliVersion": "0.1.221",
-  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.221/dist/plasmic.schema.json"
+  "cliVersion": "0.1.222",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.222/dist/plasmic.schema.json"
 }

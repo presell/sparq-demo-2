@@ -556,7 +556,6 @@
   max-width: 100%;
   position: absolute;
   align-self: center;
-  left: 22px;
   top: 590px;
 }
 @media (min-width: 414px) {
@@ -567,7 +566,6 @@
 ._414PxVariety:global(.__wab_instance) {
   max-width: 100%;
   position: absolute;
-  left: 22px;
   top: 1358px;
 }
 .variety414Px___5ZpcF:global(.__wab_instance) {
@@ -599,26 +597,22 @@
   max-width: 100%;
   position: absolute;
   align-self: center;
-  left: 22px;
   top: 2125px;
 }
 .pureSingle414Px:global(.__wab_instance) {
   max-width: 100%;
   position: absolute;
   align-self: center;
-  left: 22px;
   top: 2890px;
 }
 .meltSingle414Px:global(.__wab_instance) {
   max-width: 100%;
   position: absolute;
-  left: 22px;
   top: 3655px;
 }
 .subscriptionImageText414Px:global(.__wab_instance) {
   max-width: 100%;
   position: absolute;
-  left: 16px;
   top: 4440px;
   flex-shrink: 0;
 }
@@ -630,7 +624,6 @@
 .promissoryCommitment414Px:global(.__wab_instance) {
   max-width: 100%;
   position: absolute;
-  left: 0px;
   top: 4586px;
   flex-shrink: 0;
 }
@@ -642,7 +635,6 @@
 .footer414Px:global(.__wab_instance) {
   max-width: 100%;
   position: absolute;
-  left: 0px;
   top: 5476px;
   flex-shrink: 0;
 }
@@ -722,31 +714,26 @@
 ._320PxVariety:global(.__wab_instance) {
   max-width: 100%;
   position: absolute;
-  left: 10px;
   top: 1218px;
 }
 ._320PxFuel:global(.__wab_instance) {
   max-width: 100%;
   position: absolute;
-  left: 10px;
   top: 1870px;
 }
 ._320PxPure:global(.__wab_instance) {
   max-width: 100%;
   position: absolute;
-  left: 10px;
   top: 2520px;
 }
 ._320PxMelt:global(.__wab_instance) {
   max-width: 100%;
   position: absolute;
-  left: 10px;
   top: 3170px;
 }
 ._320XSubscriptionImage:global(.__wab_instance) {
   max-width: 100%;
   position: absolute;
-  left: 15px;
   top: 3840px;
   flex-shrink: 0;
 }
@@ -758,7 +745,6 @@
 ._320PxCommitment:global(.__wab_instance) {
   max-width: 100%;
   position: absolute;
-  left: 0px;
   top: 3960px;
   flex-shrink: 0;
 }
@@ -770,7 +756,6 @@
 ._320PxFooterI:global(.__wab_instance) {
   max-width: 100%;
   position: absolute;
-  left: 0px;
   top: 4957px;
   z-index: 1;
   flex-shrink: 0;
